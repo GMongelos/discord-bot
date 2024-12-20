@@ -1,0 +1,4 @@
+discord.py
+python-dotenv~=1.0.1
+yt-dlp
+PyNaCl
